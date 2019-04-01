@@ -1,0 +1,11 @@
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\bin\Debug\netcoreapp2.0\1787. Mega turn.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\bin\Debug\netcoreapp2.0\1787. Mega turn.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\bin\Debug\netcoreapp2.0\1787. Mega turn.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\bin\Debug\netcoreapp2.0\1787. Mega turn.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\bin\Debug\netcoreapp2.0\1787. Mega turn.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\obj\Debug\netcoreapp2.0\1787. Mega turn.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\obj\Debug\netcoreapp2.0\1787. Mega turn.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\obj\Debug\netcoreapp2.0\1787. Mega turn.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\obj\Debug\netcoreapp2.0\1787. Mega turn.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\obj\Debug\netcoreapp2.0\1787. Mega turn.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1787. Mega turn\obj\Debug\netcoreapp2.0\1787. Mega turn.csprojAssemblyReference.cache

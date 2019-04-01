@@ -1,0 +1,11 @@
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\bin\Debug\netcoreapp2.0\1197. No man is an island.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\bin\Debug\netcoreapp2.0\1197. No man is an island.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\bin\Debug\netcoreapp2.0\1197. No man is an island.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\bin\Debug\netcoreapp2.0\1197. No man is an island.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\bin\Debug\netcoreapp2.0\1197. No man is an island.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\obj\Debug\netcoreapp2.0\1197. No man is an island.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\obj\Debug\netcoreapp2.0\1197. No man is an island.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\obj\Debug\netcoreapp2.0\1197. No man is an island.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\obj\Debug\netcoreapp2.0\1197. No man is an island.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\obj\Debug\netcoreapp2.0\1197. No man is an island.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1197. No man is an island\obj\Debug\netcoreapp2.0\1197. No man is an island.pdb

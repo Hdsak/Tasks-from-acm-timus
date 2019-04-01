@@ -1,0 +1,11 @@
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\bin\Debug\netcoreapp2.0\1820. Ural brugers.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\bin\Debug\netcoreapp2.0\1820. Ural brugers.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\bin\Debug\netcoreapp2.0\1820. Ural brugers.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\bin\Debug\netcoreapp2.0\1820. Ural brugers.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\bin\Debug\netcoreapp2.0\1820. Ural brugers.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\obj\Debug\netcoreapp2.0\1820. Ural brugers.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\obj\Debug\netcoreapp2.0\1820. Ural brugers.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\obj\Debug\netcoreapp2.0\1820. Ural brugers.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\obj\Debug\netcoreapp2.0\1820. Ural brugers.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\obj\Debug\netcoreapp2.0\1820. Ural brugers.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1820. Ural brugers\obj\Debug\netcoreapp2.0\1820. Ural brugers.pdb

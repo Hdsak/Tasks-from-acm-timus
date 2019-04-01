@@ -1,0 +1,10 @@
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\bin\Debug\netcoreapp2.0\1409. Two Bandits.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\bin\Debug\netcoreapp2.0\1409. Two Bandits.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\bin\Debug\netcoreapp2.0\1409. Two Bandits.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\bin\Debug\netcoreapp2.0\1409. Two Bandits.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\bin\Debug\netcoreapp2.0\1409. Two Bandits.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\obj\Debug\netcoreapp2.0\1409. Two Bandits.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\obj\Debug\netcoreapp2.0\1409. Two Bandits.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\obj\Debug\netcoreapp2.0\1409. Two Bandits.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\obj\Debug\netcoreapp2.0\1409. Two Bandits.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1409. Two Bandits\obj\Debug\netcoreapp2.0\1409. Two Bandits.pdb

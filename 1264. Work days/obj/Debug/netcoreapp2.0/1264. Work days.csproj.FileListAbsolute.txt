@@ -1,0 +1,10 @@
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\bin\Debug\netcoreapp2.0\1264. Work days.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\bin\Debug\netcoreapp2.0\1264. Work days.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\bin\Debug\netcoreapp2.0\1264. Work days.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\bin\Debug\netcoreapp2.0\1264. Work days.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\bin\Debug\netcoreapp2.0\1264. Work days.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\obj\Debug\netcoreapp2.0\1264. Work days.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\obj\Debug\netcoreapp2.0\1264. Work days.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\obj\Debug\netcoreapp2.0\1264. Work days.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\obj\Debug\netcoreapp2.0\1264. Work days.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1264. Work days\obj\Debug\netcoreapp2.0\1264. Work days.pdb

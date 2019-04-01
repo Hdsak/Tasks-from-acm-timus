@@ -1,0 +1,11 @@
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\bin\Debug\netcoreapp2.0\2001. Math and berrys.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\bin\Debug\netcoreapp2.0\2001. Math and berrys.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\bin\Debug\netcoreapp2.0\2001. Math and berrys.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\bin\Debug\netcoreapp2.0\2001. Math and berrys.dll
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\bin\Debug\netcoreapp2.0\2001. Math and berrys.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\obj\Debug\netcoreapp2.0\2001. Math and berrys.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\obj\Debug\netcoreapp2.0\2001. Math and berrys.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\obj\Debug\netcoreapp2.0\2001. Math and berrys.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\obj\Debug\netcoreapp2.0\2001. Math and berrys.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\obj\Debug\netcoreapp2.0\2001. Math and berrys.dll
+C:\Users\Alpha\source\repos\acm.timus playground\2001. Math and berrys\obj\Debug\netcoreapp2.0\2001. Math and berrys.pdb

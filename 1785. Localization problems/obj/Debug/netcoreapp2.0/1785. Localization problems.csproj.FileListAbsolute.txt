@@ -1,0 +1,10 @@
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\bin\Debug\netcoreapp2.0\1785. Localization problems.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\bin\Debug\netcoreapp2.0\1785. Localization problems.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\bin\Debug\netcoreapp2.0\1785. Localization problems.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\bin\Debug\netcoreapp2.0\1785. Localization problems.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\bin\Debug\netcoreapp2.0\1785. Localization problems.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\obj\Debug\netcoreapp2.0\1785. Localization problems.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\obj\Debug\netcoreapp2.0\1785. Localization problems.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\obj\Debug\netcoreapp2.0\1785. Localization problems.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\obj\Debug\netcoreapp2.0\1785. Localization problems.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1785. Localization problems\obj\Debug\netcoreapp2.0\1785. Localization problems.pdb

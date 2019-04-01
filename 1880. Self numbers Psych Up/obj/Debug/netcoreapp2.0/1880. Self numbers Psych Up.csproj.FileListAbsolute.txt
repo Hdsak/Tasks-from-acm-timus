@@ -1,0 +1,11 @@
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\bin\Debug\netcoreapp2.0\1880. Self numbers Psych Up.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\bin\Debug\netcoreapp2.0\1880. Self numbers Psych Up.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\bin\Debug\netcoreapp2.0\1880. Self numbers Psych Up.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\bin\Debug\netcoreapp2.0\1880. Self numbers Psych Up.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\bin\Debug\netcoreapp2.0\1880. Self numbers Psych Up.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\obj\Debug\netcoreapp2.0\1880. Self numbers Psych Up.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\obj\Debug\netcoreapp2.0\1880. Self numbers Psych Up.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\obj\Debug\netcoreapp2.0\1880. Self numbers Psych Up.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\obj\Debug\netcoreapp2.0\1880. Self numbers Psych Up.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\obj\Debug\netcoreapp2.0\1880. Self numbers Psych Up.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1880. Self numbers Psych Up\obj\Debug\netcoreapp2.0\1880. Self numbers Psych Up.csprojAssemblyReference.cache

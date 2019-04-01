@@ -1,0 +1,11 @@
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\bin\Debug\netcoreapp2.0\1000 a + b problem.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\bin\Debug\netcoreapp2.0\1000 a + b problem.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\bin\Debug\netcoreapp2.0\1000 a + b problem.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\bin\Debug\netcoreapp2.0\1000 a + b problem.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\bin\Debug\netcoreapp2.0\1000 a + b problem.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\obj\Debug\netcoreapp2.0\1000 a + b problem.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\obj\Debug\netcoreapp2.0\1000 a + b problem.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\obj\Debug\netcoreapp2.0\1000 a + b problem.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\obj\Debug\netcoreapp2.0\1000 a + b problem.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\obj\Debug\netcoreapp2.0\1000 a + b problem.dll
+C:\Users\Alpha\source\repos\acm.timus playground\1000 a + b problem\obj\Debug\netcoreapp2.0\1000 a + b problem.pdb

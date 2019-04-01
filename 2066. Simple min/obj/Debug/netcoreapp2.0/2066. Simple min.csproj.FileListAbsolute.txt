@@ -1,0 +1,11 @@
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\bin\Debug\netcoreapp2.0\2066. Simple min.deps.json
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\bin\Debug\netcoreapp2.0\2066. Simple min.runtimeconfig.json
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\bin\Debug\netcoreapp2.0\2066. Simple min.runtimeconfig.dev.json
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\bin\Debug\netcoreapp2.0\2066. Simple min.dll
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\bin\Debug\netcoreapp2.0\2066. Simple min.pdb
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\obj\Debug\netcoreapp2.0\2066. Simple min.csprojAssemblyReference.cache
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\obj\Debug\netcoreapp2.0\2066. Simple min.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\obj\Debug\netcoreapp2.0\2066. Simple min.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\obj\Debug\netcoreapp2.0\2066. Simple min.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\obj\Debug\netcoreapp2.0\2066. Simple min.dll
+C:\Users\Alpha\source\repos\acm.timus playground\2066. Simple min\obj\Debug\netcoreapp2.0\2066. Simple min.pdb
